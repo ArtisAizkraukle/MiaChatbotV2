@@ -4,7 +4,7 @@ import { View, Text } from 'react-native'
 const ChatArea = () => {
 	return (
 		<View>
-			<Text>Chat area view is here..</Text>
+			<Text>Chat area view is here.........</Text>
 		</View>
 	)
 }
